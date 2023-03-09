@@ -1,0 +1,3 @@
+baseURL = 'https://dadyshok.github.io/cv/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
