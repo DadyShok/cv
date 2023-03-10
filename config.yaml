@@ -1,4 +1,4 @@
-baseURL: "https://dadyshok.github.io/cv/"
+baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
